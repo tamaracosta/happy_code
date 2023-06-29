@@ -16,6 +16,11 @@
     "depoimento": "amo vcssssss2"
   },
   {
+    "nome" : "Abner",
+    "imagem" : "https://github.com/AbnerSantosss.png",
+    "depoimento": "Jully e Jack Parabéns pelo seu aniversário! Continue inspirando outras mulheres na tecnologia, desejo muita saude paz e sucesso para vocês!"
+  },
+  {
     "nome" : "Débora",
     "imagem" : "https://github.com/dehlinhares.png",
     "depoimento": "Parabéns!! Que vocês continuem sendo inspiração e compartilhando conhecimento com gentileza e paciência!!"
@@ -78,6 +83,7 @@
    }  
 
 ]
+
 
 
 
