@@ -17,6 +17,11 @@
   },
   {
 
+    "nome": "Tatiana Pinheiro",
+    "imagem": "https://github.com/tatarihanpinheiro.png",
+    "depoimento": "Feliz aniversário meninas! Continuem arrasando em tudo!"
+  },
+  {
     "nome" : "Aldo Barros",
     "imagem" : "https://github.com/barrosaldo.png",
     "depoimento": "Parabéns, Julli e Jackie! Que este dia seja repleto de felicidade! Agradeço imensamente a vocês por sua dedicação e contribuição! Vocês são incríveis!"
@@ -30,8 +35,8 @@
     "nome" : "Igor Gabriel",
     "imagem" : "https://github.com/IgorGabriel01.png",
     "depoimento": "Parabéns minhas queridas e obrigado por proporiconar tanto conhecimento, amo vocês!!"
-
   }
 
     
 ]
+
