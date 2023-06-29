@@ -1,11 +1,13 @@
 .container {
   width: 300px;
-  height: 300px;
+
   border: 2px solid black;
   display: flex;
   flex-direction: column;
   align-items: center;
   background-image: linear-gradient(to right, #ffffff7a, #edcfee);
+  padding: 17px;
+  
 
 
 }

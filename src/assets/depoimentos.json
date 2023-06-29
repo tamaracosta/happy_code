@@ -16,6 +16,16 @@
     "depoimento": "amo vcssssss2"
   },
   {
+    "nome" : "Abner",
+    "imagem" : "https://github.com/AbnerSantosss.png",
+    "depoimento": "Jully e Jack Parabéns pelo seu aniversário! Continue inspirando outras mulheres na tecnologia, desejo muita saude paz e sucesso para vocês!"
+  },
+  {
+    "nome" : "Débora",
+    "imagem" : "https://github.com/dehlinhares.png",
+    "depoimento": "Parabéns!! Que vocês continuem sendo inspiração e compartilhando conhecimento com gentileza e paciência!!"
+  },
+  {
   "nome" : "Priscila",
   "imagem" : "https://github.com/Peppaj.png",
   "depoimento": "Jackie e Julli vocês são ótimas pessoas pelo pouco que conheci vocês tem um grande coração com uma enorme paciência, muito obrigada às duas por ter sempre me ajudado e me animado quando precisei.Desejo tudo de bom a vocês felicidades e sucesso…s2 s2 s2"
@@ -57,13 +67,24 @@
     "depoimento": "Parabéns minhas queridas e obrigado por proporiconar tanto conhecimento, amo vocês!!"
   },
   {
+    "nome" : "Silvana Araujo",
+    "imagem" : "https://github.com/SilOliveira.png",
+    "depoimento": "Só posso desejar tudo de bom na vida de vocês duas, com tanta paciência e dedicação com a gente, parabéns pelo dia de vocês e sucesso em suas jornadas!"
+  },
+  {
     "nome" : "Fernanda Amorim",
     "imagem" : "https://github.com/AmorimFernandaS.png",
-    "depoimento": "Parabéns! Que o Senhor abençõe Vocês!!!"
-  }
+    "depoimento": "Parabéns!! Que o Senhor abençõe vocês!!!" 
+  },
+  {
+    "nome" : "Marcelo",
+    "imagem" : "https://github.com/MarceloRocha-SP.png",
+    "depoimento": "Parabéns Jack e Julli, feliz aniversário! Muito obrigado por tantos ensinamentos. Muita saúde e prosperidade pra vocês."
+   }  
 
-    
+
 ]
+
 
 
 
