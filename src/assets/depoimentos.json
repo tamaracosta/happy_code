@@ -1,8 +1,18 @@
 [
   {
-  "nome" : "Tamara Costa",
-  "imagem" : "https://github.com/tamaracosta.png",
-  "depoimento": "amo vcssssss"
+  "nome" : "Aline",
+  "imagem" : "https://github.com/AlineNunes2023.png",
+  "depoimento": "Obrigada, por todos os ensinamentos e paciência. Com certeza, tivemos a oportunidade de encontrar grandes profissionais do mercado,e iremos levar para a vida"
+  },
+  {
+    "nome" : "Tamara2",
+    "imagem" : "https://github.com/tamaracosta.png",
+    "depoimento": "amo vcssssss2"
+  },
+  {
+    "nome" : "Gabriel Brito.",
+    "imagem" : "https://github.com/gabriel-bri.png",
+    "depoimento": "Feliz aniversário. Tudo de bom <3"
   },
   {
     "nome" : "Igor Gabriel",
