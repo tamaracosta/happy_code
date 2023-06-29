@@ -17,6 +17,11 @@
   },
   {
 
+  "nome" : "Erika",
+  "imagem" : "https://github.com/ErikaLaise.png",
+  "depoimento": "Feliz aniversário, tudo de melhor!!"
+  },
+  {
     "nome": "Tatiana Pinheiro",
     "imagem": "https://github.com/tatarihanpinheiro.png",
     "depoimento": "Feliz aniversário meninas! Continuem arrasando em tudo!"
@@ -39,4 +44,5 @@
 
     
 ]
+
 
