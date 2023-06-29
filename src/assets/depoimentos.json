@@ -60,7 +60,11 @@
     "nome" : "Igor Gabriel",
     "imagem" : "https://github.com/IgorGabriel01.png",
     "depoimento": "Parabéns minhas queridas e obrigado por proporiconar tanto conhecimento, amo vocês!!"
-
+  },
+  {
+    "nome" : "Silvana Araujo",
+    "imagem" : "https://github.com/SilOliveira.png",
+    "depoimento": "Só posso desejar tudo de bom na vida de vocês duas, com tanta paciência e dedicação com a gente, parabéns pelo dia de vocês e sucesso em suas jornadas!"
   },
   {
     "nome" : "Fernanda Amorim",
