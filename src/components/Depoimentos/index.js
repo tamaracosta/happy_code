@@ -29,6 +29,7 @@ export default function Depoimentos() {
             foto={depoimento.imagem}
             nomeDoAluno={depoimento.nome}
             depoimento={depoimento.depoimento}
+            urlGithub={depoimento.imagem.slice(0, -4)}
           />
         )
       )}
