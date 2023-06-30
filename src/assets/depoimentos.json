@@ -1,50 +1,54 @@
-[
+[{
+    "nome": "Alberto Moiseis",
+    "imagem": "https://github.com/devalbertomoiseis.png",
+    "depoimento": "Parabéns às duas - Jully e Jack -. Desejo a vocês um dia cheio de alegria,  muito código/bug e realizações. Que esta data especial marque o início de um novo ciclo repleto de felicidade, sucesso e muitas conquistas. Vocês são pessoas incríveis, estão mudando muitas vidas, obrigado por tudo  !!!"
+  },
   {
 
-  "nome" : "Daniel Henrique",
-  "imagem" : "https://avatars.githubusercontent.com/u/67475046?s=400&u=48a4f8cbe9385c6f028bc1bb0d2ad674b28206b8&v=4.png",
-  "depoimento": "Parabéns felicidades vcs são nota 1000 :)"
+    "nome": "Daniel Henrique",
+    "imagem": "https://avatars.githubusercontent.com/u/67475046?s=400&u=48a4f8cbe9385c6f028bc1bb0d2ad674b28206b8&v=4.png",
+    "depoimento": "Parabéns felicidades vcs são nota 1000 :)"
   },
   {
-  "nome" : "Aline",
-  "imagem" : "https://github.com/AlineNunes2023.png",
-  "depoimento": "Obrigada, por todos os ensinamentos e paciência. Com certeza, tivemos a oportunidade de encontrar grandes profissionais do mercado,e iremos levar para a vida"
+    "nome": "Aline",
+    "imagem": "https://github.com/AlineNunes2023.png",
+    "depoimento": "Obrigada, por todos os ensinamentos e paciência. Com certeza, tivemos a oportunidade de encontrar grandes profissionais do mercado,e iremos levar para a vida"
   },
   {
-    "nome" : "Tamara",
-    "imagem" : "https://github.com/tamaracosta.png",
-    "depoimento": "amo vcssssss"
+    "nome": "Tamara2",
+    "imagem": "https://github.com/tamaracosta.png",
+    "depoimento": "amo vcssssss2"
   },
   {
-    "nome" : "Abner",
-    "imagem" : "https://github.com/AbnerSantosss.png",
+    "nome": "Abner",
+    "imagem": "https://github.com/AbnerSantosss.png",
     "depoimento": "Jully e Jack Parabéns pelo seu aniversário! Continue inspirando outras mulheres na tecnologia, desejo muita saude paz e sucesso para vocês!"
   },
   {
-    "nome" : "Débora",
-    "imagem" : "https://github.com/dehlinhares.png",
+    "nome": "Débora",
+    "imagem": "https://github.com/dehlinhares.png",
     "depoimento": "Parabéns!! Que vocês continuem sendo inspiração e compartilhando conhecimento com gentileza e paciência!!"
   },
   {
-  "nome" : "Priscila",
-  "imagem" : "https://github.com/Peppaj.png",
-  "depoimento": "Jackie e Julli vocês são ótimas pessoas pelo pouco que conheci vocês tem um grande coração com uma enorme paciência, muito obrigada às duas por ter sempre me ajudado e me animado quando precisei.Desejo tudo de bom a vocês felicidades e sucesso…s2 s2 s2"
+    "nome": "Priscila",
+    "imagem": "https://github.com/Peppaj.png",
+    "depoimento": "Jackie e Julli vocês são ótimas pessoas pelo pouco que conheci vocês tem um grande coração com uma enorme paciência, muito obrigada às duas por ter sempre me ajudado e me animado quando precisei.Desejo tudo de bom a vocês felicidades e sucesso…s2 s2 s2"
   },
   {
-    "nome" : "Washington",
-    "imagem" : "https://github.com/washingtongomes.png" ,
+    "nome": "Washington",
+    "imagem": "https://github.com/washingtongomes.png",
     "depoimento": "Parabéns Jack e Jully... Voces são feras ! ! ! "
-  },  
+  },
   {
-    "nome" : "Luciana Chamma",
-    "imagem" : "https://github.com/LucianaChamma.png",
+    "nome": "Luciana Chamma",
+    "imagem": "https://github.com/LucianaChamma.png",
     "depoimento": "Jackie e Julli, Parabéns para vocês!! Muita saúde, luz, realizações e alegrias. Vocês são muito incríveis e nos inspiram todos os dias!"
   },
   {
 
-  "nome" : "Erika",
-  "imagem" : "https://github.com/ErikaLaise.png",
-  "depoimento": "Feliz aniversário, tudo de melhor!!"
+    "nome": "Erika",
+    "imagem": "https://github.com/ErikaLaise.png",
+    "depoimento": "Feliz aniversário, tudo de melhor!!"
   },
   {
     "nome": "Tatiana Pinheiro",
@@ -52,39 +56,44 @@
     "depoimento": "Feliz aniversário meninas! Continuem arrasando em tudo!"
   },
   {
-    "nome" : "Aldo Barros",
-    "imagem" : "https://github.com/barrosaldo.png",
+    "nome": "Aldo Barros",
+    "imagem": "https://github.com/barrosaldo.png",
     "depoimento": "Parabéns, Julli e Jackie! Que este dia seja repleto de felicidade! Agradeço imensamente a vocês por sua dedicação e contribuição! Vocês são incríveis!"
   },
   {
-    "nome" : "Gabriel Brito.",
-    "imagem" : "https://github.com/gabriel-bri.png",
+    "nome": "Gabriel Brito.",
+    "imagem": "https://github.com/gabriel-bri.png",
     "depoimento": "Feliz aniversário. Tudo de bom <3"
   },
   {
-    "nome" : "Igor Gabriel",
-    "imagem" : "https://github.com/IgorGabriel01.png",
+    "nome": "Igor Gabriel",
+    "imagem": "https://github.com/IgorGabriel01.png",
     "depoimento": "Parabéns minhas queridas e obrigado por proporiconar tanto conhecimento, amo vocês!!"
   },
   {
-    "nome" : "Silvana Araujo",
-    "imagem" : "https://github.com/SilOliveira.png",
+    "nome": "Silvana Araujo",
+    "imagem": "https://github.com/SilOliveira.png",
     "depoimento": "Só posso desejar tudo de bom na vida de vocês duas, com tanta paciência e dedicação com a gente, parabéns pelo dia de vocês e sucesso em suas jornadas!"
   },
   {
-    "nome" : "Fernanda Amorim",
-    "imagem" : "https://github.com/AmorimFernandaS.png",
-    "depoimento": "Parabéns!! Que o Senhor abençõe vocês!!!" 
+    "nome": "Fernanda Amorim",
+    "imagem": "https://github.com/AmorimFernandaS.png",
+    "depoimento": "Parabéns!! Que o Senhor abençõe vocês!!!"
   },
   {
-    "nome" : "Marcelo",
-    "imagem" : "https://github.com/MarceloRocha-SP.png",
+    "nome": "Marcelo",
+    "imagem": "https://github.com/MarceloRocha-SP.png",
     "depoimento": "Parabéns Jack e Julli, feliz aniversário! Muito obrigado por tantos ensinamentos. Muita saúde e prosperidade pra vocês."
-   }  
+  },
+  {
+    "nome": "Débora Martins",
+    "imagem": "https://github.com/deboramds.png",
+    "depoimento": "Parabéns, muitas felicidades, saúde e sucesso!!!"
+  },
+  {
+    "nome": "Dayana do Valle",
+    "imagem": "https://github.com/DayanadoValle.png",
+    "depoimento": "Parabéns profs Julli & Jackie, obrigada por toda dedicação, tudo de bom para vocês duas!!! <3"
+  }
 
 ]
-
-
-
-
-
