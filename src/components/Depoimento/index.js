@@ -1,7 +1,9 @@
 import React from 'react';
 import styles from './Depoimento.module.css';
 
-export default function Depoimento({ foto, nomeDoAluno, depoimento }) {
+import { FaGithub } from 'react-icons/fa';
+
+export default function Depoimento({ foto, nomeDoAluno, depoimento, urlGithub}) {
 
   return (
 
@@ -14,7 +16,7 @@ export default function Depoimento({ foto, nomeDoAluno, depoimento }) {
       />
       <h1>{nomeDoAluno}</h1>
       <p>{depoimento}</p>
-
+      <a target="_blank" href={urlGithub} rel="noreferrer"><FaGithub/></a>
     </div>
 
 

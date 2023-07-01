@@ -1,10 +1,131 @@
-[
-  {
-  "nome" : "Tamara",
-  "imagem" : "https://github.com/tamaracosta.png",
-  "depoimento": "amo vcssssss"
+[{
+    "nome": "Alberto Moiseis",
+    "imagem": "https://github.com/devalbertomoiseis.png",
+    "depoimento": "Parabéns às duas - Jully e Jack -. Desejo a vocês um dia cheio de alegria,  muito código/bug e realizações. Que esta data especial marque o início de um novo ciclo repleto de felicidade, sucesso e muitas conquistas. Vocês são pessoas incríveis, estão mudando muitas vidas, obrigado por tudo  !!!",
+    "github": "https://github.com/devalbertomoiseis"
   },
   {
+
+    "nome": "Daniel Henrique",
+    "imagem": "https://github.com/acazbenassi.png",
+    "depoimento": "Parabéns felicidades vcs são nota 1000 :)",
+    "github": "https://github.com/acazbenassi"
+  },
+  {
+    "nome": "Aline",
+    "imagem": "https://github.com/AlineNunes2023.png",
+    "depoimento": "Obrigada, por todos os ensinamentos e paciência. Com certeza, tivemos a oportunidade de encontrar grandes profissionais do mercado,e iremos levar para a vida",
+    "github": "https://github.com/AlineNunes2023"
+  },
+  {
+    "nome": "Tamara2",
+    "imagem": "https://github.com/tamaracosta.png",
+    "depoimento": "amo vcssssss2",
+    "github": "https://github.com/tamaracosta"
+  },
+  {
+    "nome": "Abner",
+    "imagem": "https://github.com/AbnerSantosss.png",
+    "depoimento": "Jully e Jack Parabéns pelo seu aniversário! Continue inspirando outras mulheres na tecnologia, desejo muita saude paz e sucesso para vocês!",
+    "github": "https://github.com/AbnerSantosss"
+  },
+  {
+    "nome": "Débora",
+    "imagem": "https://github.com/dehlinhares.png",
+    "depoimento": "Parabéns!! Que vocês continuem sendo inspiração e compartilhando conhecimento com gentileza e paciência!!",
+    "github": "https://github.com/dehlinhares"
+  },
+  {
+    "nome": "Priscila",
+    "imagem": "https://github.com/Peppaj.png",
+    "depoimento": "Jackie e Julli vocês são ótimas pessoas pelo pouco que conheci vocês tem um grande coração com uma enorme paciência, muito obrigada às duas por ter sempre me ajudado e me animado quando precisei.Desejo tudo de bom a vocês felicidades e sucesso…s2 s2 s2",
+    "github": "https://github.com/Peppaj"
+  },
+  {
+    "nome": "Washington",
+    "imagem": "https://github.com/washingtongomes.png",
+    "depoimento": "Parabéns Jack e Jully... Voces são feras ! ! ! ",
+    "github": "https://github.com/washingtongomes"
+  },
+  {
+    "nome": "Luciana Chamma",
+    "imagem": "https://github.com/LucianaChamma.png",
+    "depoimento": "Jackie e Julli, Parabéns para vocês!! Muita saúde, luz, realizações e alegrias. Vocês são muito incríveis e nos inspiram todos os dias!",
+    "github": "https://github.com/LucianaChamma"
+  },
+  {
+
+    "nome": "Erika",
+    "imagem": "https://github.com/ErikaLaise.png",
+    "depoimento": "Feliz aniversário, tudo de melhor!!",
+    "github": "https://github.com/ErikaLaise"
+  },
+  {
+    "nome": "Tatiana Pinheiro",
+    "imagem": "https://github.com/tatarihanpinheiro.png",
+    "depoimento": "Feliz aniversário meninas! Continuem arrasando em tudo!",
+    "github": "https://github.com/tatarihanpinheiro"
+  },
+  {
+    "nome": "Aldo Barros",
+    "imagem": "https://github.com/barrosaldo.png",
+    "depoimento": "Parabéns, Julli e Jackie! Que este dia seja repleto de felicidade! Agradeço imensamente a vocês por sua dedicação e contribuição! Vocês são incríveis!",
+    "github": "https://github.com/barrosaldo"
+  },
+  {
+    "nome": "Gabriel Brito.",
+    "imagem": "https://github.com/gabriel-bri.png",
+    "depoimento": "Feliz aniversário. Tudo de bom <3",
+    "github": "https://github.com/gabriel-bri"
+  },
+  {
+    "nome": "Igor Gabriel",
+    "imagem": "https://github.com/IgorGabriel01.png",
+    "depoimento": "Parabéns minhas queridas e obrigado por proporiconar tanto conhecimento, amo vocês!!",
+    "github": "https://github.com/IgorGabriel01"
+  },
+  {
+    "nome": "Silvana Araujo",
+    "imagem": "https://github.com/SilOliveira.png",
+    "depoimento": "Só posso desejar tudo de bom na vida de vocês duas, com tanta paciência e dedicação com a gente, parabéns pelo dia de vocês e sucesso em suas jornadas!",
+    "github": "https://github.com/SilOliveira"
+  },
+  {
+    "nome": "Fernanda Amorim",
+    "imagem": "https://github.com/AmorimFernandaS.png",
+    "depoimento": "Parabéns!! Que o Senhor abençõe vocês!!!",
+    "github": "https://github.com/AmorimFernandaS"
+  },
+  {
+    "nome": "Marcelo",
+    "imagem": "https://github.com/MarceloRocha-SP.png",
+    "depoimento": "Parabéns Jack e Julli, feliz aniversário! Muito obrigado por tantos ensinamentos. Muita saúde e prosperidade pra vocês.",
+    "github": "https://github.com/MarceloRocha-SP"
+  },
+  {
+    "nome": "Débora Martins",
+    "imagem": "https://github.com/deboramds.png",
+    "depoimento": "Parabéns, muitas felicidades, saúde e sucesso!!!",
+    "github": "https://github.com/deboramds"
+  },
+  {
+    "nome": "Dayana do Valle",
+    "imagem": "https://github.com/DayanadoValle.png",
+    "depoimento": "Parabéns profs Julli & Jackie, obrigada por toda dedicação, tudo de bom para vocês duas!!! <3",
+    "github": "https://github.com/DayanadoValle"
+  },
+
+
+  {
+    "nome": "Luis Parenti",
+    "imagem": "https://media.licdn.com/dms/image/D4D35AQHjyRYs_R4GFA/profile-framedphoto-shrink_800_800/0/1687366917779?e=1688785200&v=beta&t=Iza_Tkmmq2tLxoVrjXLQJDA4T7umz40r9HZHyY0dZOY ",
+    "depoimento": "Queridas Jackie e Julli, desejo que disfrutem muito do seu dia que difrutem mesmo porque vcs merecem.. pelo seu esforço, a sua dedicação, o seu carinho e talento nas suas realizações",
+    "github": ""
+  },
+
+
+  {
+
     "nome" : "Tamara2",
     "imagem" : "https://github.com/tamaracosta.png",
     "depoimento": "amo vcssssss2"
@@ -13,6 +134,13 @@
     "nome" : "Karen Reis",
     "imagem" : "https://github.com/reiskaren0228.png",
     "depoimento": "🎊 Eu desejo a vocês as 2 🎁, todas as coisas maravilhosas do mundo!!! E que todos os sonhos de vocês se concretizem, assim como os nossos estão se concretizando através de todos os ensinamentos, paciência kkk 😆 e dedicação de vocês 🎉!!!Obrigadaaaaa 🫰💜🫰 E 🎊🎊 Felizzz Níverrr Jackie e Julli🎉🎉 "
+  },
+  {
+    "nome": "Adilton Martins",
+    "imagem": "https://github.com/dirtin.png",
+    "depoimento": "Sobre a Jakie: Conheço essa garota há muitos anos. Posso afirmar que ela é uma verdadeira guerreira e uma pessoa incrível, extremamente solidária e sempre preocupada com seus amigos. Sobre a Jully: Acabei de conhecer a Jully e estou adorando suas aulas. Ela traz uma abordagem moderna e é extremamente atenciosa. Além disso, tem um ótimo senso de humor e parece ser uma pessoa super legal para se ter nas rodas de conversa.",
+    "github": "https://github.com/dirtin"
+
   }
-    
+
 ]
