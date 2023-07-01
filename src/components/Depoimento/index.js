@@ -6,7 +6,7 @@ export default function Depoimento({ foto, nomeDoAluno, depoimento }) {
   return (
 
     <div className={styles.container}>
-
+      <div className={styles.cardBanner}></div>
       <img
         className={styles.imagem}
         src={foto}
