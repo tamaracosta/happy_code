@@ -7,9 +7,14 @@
   align-items: center;
   background-image: linear-gradient(to right, #ffffff7a, #edcfee);
   padding: 17px;
-  
+  text-align: center;
+}
 
-
+a {
+  text-decoration: none;
+  color: black;
+  margin-top: 3%;
+  font-size: 3em;
 }
 
 .imagem {
