@@ -8,12 +8,14 @@ export default function Banner() {
   return (
     <div className={styles.banner}>
       <div className={styles.apresentacao}>
-        <h1 className={styles.titulo}>
+        <h1 className={styles.saudacoes}>
           Olá, Jackie e Julli!
         </h1>
 
-        <p className={styles.paragrafo}>
-          Feliz aniversárioooooo!<br />
+        <p className={styles.felicitacoes}>
+          Feliz <spam>aniversário! </spam>        
+        </p>
+        <p className={styles.paragrafo}>          
           Essa é uma homenagem dos alunos e equipe da Campinho!
         </p>
       </div>
