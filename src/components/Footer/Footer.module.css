@@ -1,0 +1,16 @@
+.footer {
+    padding: 2% 0;
+    background-color: #000;
+}
+
+.text {
+    text-align: center !important;
+    color: #fff;
+    font-size: 1.5em;
+}
+
+.textoAnimado{
+    text-decoration: underline;
+    margin-left: 56.5%;
+    margin-top: -2.2%;
+}
