@@ -35,3 +35,11 @@
   bottom: 6vw;
   width: 15vw;
 }
+
+.confetti-canvas {
+  position:fixed;
+  top: 0;
+  left: 0;
+  pointer-events:none;
+
+}
