@@ -1,6 +1,7 @@
 import './App.css';
 import Banner from './components/Banner';
 import Depoimentos from './components/Depoimentos';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -9,7 +10,8 @@ function App() {
         <Banner />
         <Depoimentos           
         />
-      </header> 
+      </header>
+      <Footer/> 
     </div>
   );
 }

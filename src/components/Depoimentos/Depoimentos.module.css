@@ -1,8 +1,8 @@
-.depoimentos {  
-  width: 100%;
+.depoimentos {
   height: 100%;
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
-  margin: 0 40px;
+  margin-left: 4.5%;
+  margin-bottom: 2%;
 }
