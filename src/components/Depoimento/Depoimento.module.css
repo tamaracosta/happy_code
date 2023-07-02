@@ -17,6 +17,10 @@ a {
   font-size: 3em;
 }
 
+a:hover {
+  color: #8D29CA;
+}
+
 .imagem {
   width: 150px;
   height: 150px;
