@@ -1,3 +1,4 @@
+import style from "./Confetti.module.css"
 import React, { useEffect, useRef } from 'react';
 import JSConfetti from 'js-confetti';
 
@@ -19,7 +20,7 @@ const ConfettiCDN = () => {
     });
   }, []);
 
-  return <canvas ref={canvasRef} id="confetti-cdn"></canvas>;
+  return <canvas ref={canvasRef} id="confetti-cdn" className={style.confettiCanvas}></canvas>;
 };
 
 export default ConfettiCDN;

@@ -1,5 +1,5 @@
 
-
+import style from "./Confetti.module.css"
 import React, { useEffect, useRef } from 'react';
 
 
@@ -92,7 +92,7 @@ const Confetti = () => {
     };
   }, []);
 
-  return <canvas ref={canvasRef} className="confetti-canvas"/> ;
+  return <canvas ref={canvasRef} className={style.confettiCanvas}/> ;
 };
 
 export default Confetti;
