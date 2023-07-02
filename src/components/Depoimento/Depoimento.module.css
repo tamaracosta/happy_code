@@ -43,7 +43,7 @@ a:hover {
   padding: 17px;
   text-align: center;
   backface-visibility: hidden;
-  transform: rotatey(180deg);
+  /* transform: rotatey(180deg); */
 
 }
 
