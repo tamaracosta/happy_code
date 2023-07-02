@@ -1,6 +1,5 @@
 .container {
   width: 300px;
-
   border: 2px solid black;
   display: flex;
   flex-direction: column;
@@ -8,6 +7,12 @@
   background-image: linear-gradient(to right, #ffffff7a, #edcfee);
   padding: 17px;
   text-align: center;
+  transform-style: preserve-3d;
+  transition: all 0.9s ease;
+  }
+
+  .container:hover {
+    transform: rotateY(180deg);
 }
 
 a {
@@ -15,6 +20,42 @@ a {
   color: black;
   margin-top: 3%;
   font-size: 3em;
+}
+
+a:hover {
+  color: #8D29CA;
+}
+
+.imagem {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-top: 10px;
+}
+
+.container back{
+  width: 300px;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: linear-gradient(to right, #ffffff7a, #edcfee);
+  padding: 17px;
+  text-align: center;
+  backface-visibility: hidden;
+  transform: rotatey(180deg);
+
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  margin-top: 3%;
+  font-size: 3em;
+}
+
+a:hover {
+  color: #8D29CA;
 }
 
 .imagem {

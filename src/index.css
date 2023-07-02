@@ -13,10 +13,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /*background-image: linear-gradient(to right, #FF9800, #cab8c2);*/
   background-image: linear-gradient(to right, #e0c2f2, #bb9af5);
   overflow-x: hidden;
   overflow-y: scroll;
+
 }
 
 code {

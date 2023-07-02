@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbit&family=Passion+One:wght@400;700&display=swap');
+
+
+
 .banner {
   padding: 3rem 7.5rem 6.25rem;  
   color: black;
@@ -9,6 +13,20 @@
   font-size: 4rem;
   margin-top: 4.875rem;
   margin-bottom: 2rem;
+}
+
+.saudacoes{
+  font-family: 'Passion One', cursive;
+}
+
+.felicitacoes {  
+  font-family: 'Passion One', cursive;
+  font-size: 6rem;
+  color: #C73176;
+}
+
+spam {
+  color: #8D29CA;
 }
 
 .paragrafo {
