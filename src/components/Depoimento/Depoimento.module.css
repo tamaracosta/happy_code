@@ -1,6 +1,5 @@
 .container {
   width: 300px;
-
   border: 2px solid black;
   display: flex;
   flex-direction: column;
