@@ -1,6 +1,5 @@
 .container {
   width: 300px;
-
   border: 2px solid black;
   display: flex;
   flex-direction: column;
@@ -47,13 +46,13 @@ a:hover {
   transform: rotatey(180deg);
 
 }
-
+/* 
 a {
   text-decoration: none;
   color: black;
   margin-top: 3%;
   font-size: 3em;
-}
+} */
 
 a:hover {
   color: #8D29CA;
