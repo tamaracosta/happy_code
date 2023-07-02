@@ -19,28 +19,28 @@
   border: 4px solid azure;
   background-color: azure;
   position:relative;
-  top: -70px;
+  top: -100px;
 }
 
 .container h1 {
-  color: rgb(74, 74, 74);
+  color: #23003E;
   font-size: 20px;
+  margin-top: -90px;
+  margin-bottom: -10px;
 }
 .container p {
-  color: rgb(113, 113, 113);
-  margin: 10px;
+  color: #7E7E7E;
+  margin: 20px;
   margin-bottom: 30px;
   font-size: 16px;
   text-align: center;
-
 }
 
 .container .cardBanner {
-  background-color: rgb(141, 41, 203);
+  background-color: #7d29bd;
   width: inherit;
-  height: 120px;
+  height: 150px;
   display: flex;
-
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
 }
