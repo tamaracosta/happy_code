@@ -8,15 +8,24 @@ export default function Depoimento({ foto, nomeDoAluno, depoimento, urlGithub}) 
   return (
 
     <div className={styles.container}>
+      <div className={styles.card}>
 
-      <img
-        className={styles.imagem}
-        src={foto}
-        alt="foto do aluno"
-      />
-      <h1>{nomeDoAluno}</h1>
-      <p>{depoimento}</p>
-      <a target="_blank" href={urlGithub} rel="noreferrer"><FaGithub/></a>
+        <div className={styles.cardFront}>
+          <img
+            className={styles.imagem}
+            src={foto}
+            alt="foto do aluno"
+          />
+          <h1>{nomeDoAluno}</h1>          
+          
+        </div>
+
+        <div className={styles.cardBack}>      
+          <p>{depoimento}</p>
+          <a target="_blank" href={urlGithub} rel="noreferrer"><FaGithub/></a>      
+        </div>
+
+      </div>
     </div>
 
 
