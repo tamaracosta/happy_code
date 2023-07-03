@@ -37,20 +37,73 @@ spam {
 
 .imagens {
   position: relative;
-  height: 300px;
 }
 
-.fotoJulli {
-  position: absolute;
-  right: 2vw;
-  bottom: 1vw;
-  width: 15vw;
+@media screen and (min-width: 0px) {
+  .banner {
+    padding: 6rem 2rem;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 22rem;
+  }
+  .felicitacoes {
+    font-size: 4rem;
+  }
+  .imagens {
+    height: 315px;
+  }
+  .fotoJackie{
+    right: 45px;
+    bottom: 8px;
+    width: 60px;
+    position: absolute;
+  }
+  .fotoJulli {
+    right: 6px;
+    bottom: -24px;
+    width: 60px;
+    position: absolute;
+  }
 }
 
-.fotoJackie {
-  position: absolute;
-  right: 13vw;
-  bottom: 6vw;
-  width: 15vw;
+@media screen and (min-width: 768px) {
+  .banner {
+    max-width: 100%;
+  }
+  .felicitacoes {
+    font-size: 6rem;
+  }
+  .fotoJulli{
+    bottom: 100px;
+    right: 2vw;
+    width: 150px;
+  }
+  .fotoJackie {
+    bottom: 200px;
+    right: 13vw;
+    width: 150px;
+  }
 }
 
+@media screen and (min-width: 1024px) {
+  .banner {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 3rem 7.5rem 6.25rem;
+    max-width: 100%;
+  }
+  .imagens {
+    height: 300px;
+  }
+  .fotoJulli {
+    bottom: 32px;
+    right: -15px;
+    width: 200px;
+  }
+  
+  .fotoJackie {
+    bottom: 120px;
+    right: 143px;
+    width: 200px;
+  }
+}

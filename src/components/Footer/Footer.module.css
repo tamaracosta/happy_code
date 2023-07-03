@@ -11,6 +11,6 @@
 
 .textoAnimado{
     text-decoration: underline;
-    margin-left: 57%;
-    margin-top: -2.2%;
+    display: flex;
+    justify-content: center;
 }
