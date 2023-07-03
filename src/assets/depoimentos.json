@@ -1,11 +1,11 @@
-[{
+[
+  {
     "nome": "Alberto Moiseis",
     "imagem": "https://github.com/devalbertomoiseis.png",
     "depoimento": "Parabéns às duas - Jully e Jack -. Desejo a vocês um dia cheio de alegria,  muito código/bug e realizações. Que esta data especial marque o início de um novo ciclo repleto de felicidade, sucesso e muitas conquistas. Vocês são pessoas incríveis, estão mudando muitas vidas, obrigado por tudo  !!!",
     "github": "https://github.com/devalbertomoiseis"
   },
   {
-
     "nome": "Daniel Henrique",
     "imagem": "https://github.com/acazbenassi.png",
     "depoimento": "Parabéns felicidades vcs são nota 1000 :)",
@@ -114,8 +114,6 @@
     "depoimento": "Parabéns profs Julli & Jackie, obrigada por toda dedicação, tudo de bom para vocês duas!!! <3",
     "github": "https://github.com/DayanadoValle"
   },
-
-
   {
     "nome": "Luis Parenti",
     "imagem": "https://media.licdn.com/dms/image/D4D35AQHjyRYs_R4GFA/profile-framedphoto-shrink_800_800/0/1687366917779?e=1688785200&v=beta&t=Iza_Tkmmq2tLxoVrjXLQJDA4T7umz40r9HZHyY0dZOY ",
@@ -144,6 +142,12 @@
     "imagem": "https://github.com/canzua.png",
     "depoimento": "Queridas Jack e Jully, feliz aniversário! Como mentoras de desenvolvimento web na Campinho Digital, vocês têm sido fontes de inspiração e orientação para tantos alunos. Desejo a vocês um novo ano repleto de sucesso, realizações e felicidade. Que continuem sendo exemplos brilhantes de profissionais e seres humanos excepcionais. Parabéns e que este seja apenas o início de um ano incrível!",
     "github": "https://github.com/Canzua"
+  },
+  {
+    "nome": "Suellen Santana",
+    "imagem": "https://github.com/suesantana.png",
+    "depoimento": "Parabéns e muitas felicidades para ambas nesse novo ciclo, espero que continuem mudando vidas através da educação, muito obrigada! <3",
+    "github": "https://github.com/suesantana"
   }
 
 ]
