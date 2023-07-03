@@ -1,5 +1,6 @@
 .container {
   width: 300px;
+  height: 400px;
   border: 2px solid black;
   display: flex;
   flex-direction: column;
@@ -7,44 +8,41 @@
   background-image: linear-gradient(to right, #ffffff7a, #edcfee);
   padding: 17px;
   text-align: center;
-  transform-style: preserve-3d;
-  transition: all 0.9s ease;
+  perspective: 500px; 
   }
 
-  .container:hover {
+.container:hover > .card{
     transform: rotateY(180deg);
+    cursor: pointer;
+}
+.card {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transition: transform 1500ms;
+  transform-style: preserve-3d;
 }
 
-a {
-  text-decoration: none;
-  color: black;
-  margin-top: 3%;
-  font-size: 3em;
+.cardFront, .cardBack {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  backface-visibility: hidden;  
 }
 
-a:hover {
-  color: #8D29CA;
-}
-
-.imagem {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  margin-top: 10px;
-}
-
-.container back{
-  width: 300px;
-  border: 2px solid black;
+.cardFront {
   display: flex;
-  flex-direction: column;
   align-items: center;
-  background-image: linear-gradient(to right, #ffffff7a, #edcfee);
-  padding: 17px;
-  text-align: center;
-  backface-visibility: hidden;
-  transform: rotatey(180deg);
+  justify-content: center;
+  flex-direction: column;
+}
 
+.cardBack {
+  transform: rotateY(180deg);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
 }
 
 a {
@@ -64,3 +62,5 @@ a:hover {
   border-radius: 50%;
   margin-top: 10px;
 }
+
+
