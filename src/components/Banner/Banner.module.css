@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbit&family=Passion+One:wght@400;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&family=Sigmar&display=swap');
 
 
 .banner {
-  padding: 3rem 7.5rem 6.25rem;  
+  padding: 3rem 7.5rem 3.25rem;  
   color: black;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -15,14 +15,15 @@
   margin-bottom: 2rem;
 }
 
-.saudacoes{
-  font-family: 'Passion One', cursive;
+.saudacoes{  
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Sigmar', cursive;
 }
 
 .felicitacoes {  
   font-family: 'Passion One', cursive;
   font-size: 6rem;
-  color: #C73176;
+  color: #C73176;  
 }
 
 spam {
@@ -30,7 +31,7 @@ spam {
 }
 
 .paragrafo {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   line-height: 2rem;
   margin-bottom: 2rem;
 }
