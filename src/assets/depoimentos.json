@@ -132,14 +132,18 @@
     "imagem": "https://github.com/dirtin.png",
     "depoimento": "Sobre a Jakie: Conheço essa garota há muitos anos. Posso afirmar que ela é uma verdadeira guerreira e uma pessoa incrível, extremamente solidária e sempre preocupada com seus amigos. Sobre a Jully: Acabei de conhecer a Jully e estou adorando suas aulas. Ela traz uma abordagem moderna e é extremamente atenciosa. Além disso, tem um ótimo senso de humor e parece ser uma pessoa super legal para se ter nas rodas de conversa.",
     "github": "https://github.com/dirtin"
-
   },
   {
     "nome": "Julieta Yamate",
     "imagem": "https://github.com/julietamiho.png",
     "depoimento": "Às mestras, com carinho! Toda a alegria, o entusiasmo e felicidade! Feliz aniversário!",
     "github": "https://github.com/julietamiho"
-
+  },
+  {
+    "nome": "Andrea dos Santos",
+    "imagem": "https://github.com/canzua.png",
+    "depoimento": "Queridas Jack e Jully, feliz aniversário! Como mentoras de desenvolvimento web na Campinho Digital, vocês têm sido fontes de inspiração e orientação para tantos alunos. Desejo a vocês um novo ano repleto de sucesso, realizações e felicidade. Que continuem sendo exemplos brilhantes de profissionais e seres humanos excepcionais. Parabéns e que este seja apenas o início de um ano incrível!",
+    "github": "https://github.com/Canzua"
   }
 
 ]
